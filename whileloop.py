@@ -77,7 +77,4 @@
 #     else:
 #         co+=1
 #     i+=1
-# print(ce,co)    
-        
-
-        
+# print(ce,co)

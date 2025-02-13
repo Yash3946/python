@@ -1,4 +1,4 @@
-    # (1) calculator 
+        # (1) calculator :
 # def calculator (a,b):
 #     print(a+b)
 #     print(a-b)
@@ -6,7 +6,7 @@
 # calculator(12,2)
 
 
-    # (2)make a function circle  and calculator  its  perimeter  and area
+        # (2)make a function circle  and calculator  its  perimeter  and area
 # def circle(radius):
 #     area=3.14*radius**2
 #     perameter=2*3*radius
